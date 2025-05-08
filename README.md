@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-This HR Analytics Dashboard provides a visual analysis of employee attrition using key HR metrics such as age, gender, education, job role, and salary. Built in Power BI, it helps identify trends and factors contributing to attrition, enabling HR teams to make informed, data-driven decisions to improve employee retention.
+# HR Analytics Dashboard (Interactive Dashboard Creation Using Power BI)
+
+## Project Objective
+The objective of this project is to analyze employee attrition trends within an organization using HR data. By visualizing key metrics and patterns, the dashboard helps HR professionals and management identify factors contributing to attrition, monitor workforce composition, and develop data-driven strategies for employee retention.
+
